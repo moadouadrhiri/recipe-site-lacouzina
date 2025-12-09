@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://lacouzina.example.com/recipes/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe</loc>
+    <lastmod>2025-12-09T12:10:50.789Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lacouzina.example.com/recipes/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes</loc>
+    <lastmod>2025-12-09T12:10:50.880Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lacouzina.example.com/recipes/perfect-cornbread-with-honey-butter-recipe-moist-sweet</loc>
+    <lastmod>2025-12-09T12:10:50.925Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

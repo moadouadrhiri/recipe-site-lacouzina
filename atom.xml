@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lacouzina</title>
+  <subtitle>italian speciality</subtitle>
+  <link href="https://lacouzina.example.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://lacouzina.example.com" rel="alternate" type="text/html"/>
+  <id>https://lacouzina.example.com/</id>
+  <updated>2025-12-09T12:11:03.533Z</updated>
+  
+  <entry>
+    <title><![CDATA[Perfect Cornbread with Honey Butter Recipe - Moist & Sweet]]></title>
+    <link href="https://lacouzina.example.com/recipe/perfect-cornbread-with-honey-butter-recipe-moist-sweet" rel="alternate" type="text/html"/>
+    <id>https://lacouzina.example.com/recipe/perfect-cornbread-with-honey-butter-recipe-moist-sweet</id>
+    <published>2025-12-09T12:10:50.925Z</published>
+    <updated>2025-12-09T12:10:50.925Z</updated>
+    <summary><![CDATA[Discover the best Cornbread with Honey Butter recipe! Moist, sweet, and perfect for any meal. Try it today and enjoy homemade goodness.]]></summary>
+    <author>
+      <name>lacouzina</name>
+    </author>
+  </entry>
+  <entry>
+    <title><![CDATA[Perfectly Cooked Instant Pot Sweet Potatoes in 20 Minutes]]></title>
+    <link href="https://lacouzina.example.com/recipe/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes" rel="alternate" type="text/html"/>
+    <id>https://lacouzina.example.com/recipe/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes</id>
+    <published>2025-12-09T12:10:50.880Z</published>
+    <updated>2025-12-09T12:10:50.880Z</updated>
+    <summary><![CDATA[Instant Pot Sweet Potatoes made easy. Quick, fluffy, and nutritious. Try this foolproof recipe today!]]></summary>
+    <author>
+      <name>lacouzina</name>
+    </author>
+  </entry>
+  <entry>
+    <title><![CDATA[Creamy Garlic Mashed Potatoes - Ultimate Comfort Food Recipe]]></title>
+    <link href="https://lacouzina.example.com/recipe/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe" rel="alternate" type="text/html"/>
+    <id>https://lacouzina.example.com/recipe/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe</id>
+    <published>2025-12-09T12:10:50.789Z</published>
+    <updated>2025-12-09T12:10:50.789Z</updated>
+    <summary><![CDATA[Discover the ultimate Creamy Garlic Mashed Potatoes recipe with silky texture and rich flavor. Perfect for any occasion. Try it now!]]></summary>
+    <author>
+      <name>lacouzina</name>
+    </author>
+  </entry>
+</feed>

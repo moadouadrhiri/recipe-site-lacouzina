@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>lacouzina</title>
+    <link>https://lacouzina.example.com</link>
+    <description>italian speciality</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Dec 2025 12:11:03 GMT</lastBuildDate>
+    <atom:link href="https://lacouzina.example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://lacouzina.example.com/logo.png</url>
+      <title>lacouzina</title>
+      <link>https://lacouzina.example.com</link>
+    </image>
+    
+    <item>
+      <title><![CDATA[Perfect Cornbread with Honey Butter Recipe - Moist & Sweet]]></title>
+      <link>https://lacouzina.example.com/recipe/perfect-cornbread-with-honey-butter-recipe-moist-sweet</link>
+      <description><![CDATA[Discover the best Cornbread with Honey Butter recipe! Moist, sweet, and perfect for any meal. Try it today and enjoy homemade goodness.]]></description>
+      <pubDate>Tue, 09 Dec 2025 12:10:50 GMT</pubDate>
+      <guid isPermaLink="true">https://lacouzina.example.com/recipe/perfect-cornbread-with-honey-butter-recipe-moist-sweet</guid>
+      <enclosure url="couzintk.site/recipes/hero/3e6d7724-890f-43a0-9f3a-3d4368c0d630.png" type="image/jpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[Perfectly Cooked Instant Pot Sweet Potatoes in 20 Minutes]]></title>
+      <link>https://lacouzina.example.com/recipe/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes</link>
+      <description><![CDATA[Instant Pot Sweet Potatoes made easy. Quick, fluffy, and nutritious. Try this foolproof recipe today!]]></description>
+      <pubDate>Tue, 09 Dec 2025 12:10:50 GMT</pubDate>
+      <guid isPermaLink="true">https://lacouzina.example.com/recipe/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes</guid>
+      <enclosure url="couzintk.site/recipes/hero/80846b60-2be4-4ac6-8cd2-bf04a5c14c3c.png" type="image/jpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[Creamy Garlic Mashed Potatoes - Ultimate Comfort Food Recipe]]></title>
+      <link>https://lacouzina.example.com/recipe/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe</link>
+      <description><![CDATA[Discover the ultimate Creamy Garlic Mashed Potatoes recipe with silky texture and rich flavor. Perfect for any occasion. Try it now!]]></description>
+      <pubDate>Tue, 09 Dec 2025 12:10:50 GMT</pubDate>
+      <guid isPermaLink="true">https://lacouzina.example.com/recipe/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe</guid>
+      <enclosure url="couzintk.site/recipes/hero/6a11ae45-7cc8-4216-8bc8-99ba1fb365d3.png" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

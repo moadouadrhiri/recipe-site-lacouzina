@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://lacouzina.example.com/sitemap.xml</loc>
+    <lastmod>2025-12-09T12:11:03.532Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lacouzina.example.com/sitemap-recipes.xml</loc>
+    <lastmod>2025-12-09T12:11:03.532Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lacouzina.example.com/sitemap-authors.xml</loc>
+    <lastmod>2025-12-09T12:11:03.532Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lacouzina.example.com/sitemap-images.xml</loc>
+    <lastmod>2025-12-09T12:11:03.532Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lacouzina.example.com/sitemap-news.xml</loc>
+    <lastmod>2025-12-09T12:11:03.532Z</lastmod>
+  </sitemap>
+</sitemapindex>

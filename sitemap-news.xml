@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://lacouzina.example.com/recipes/creamy-garlic-mashed-potatoes-ultimate-comfort-food-recipe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>lacouzina</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T12:10:50.789Z</news:publication_date>
+      <news:title>Creamy Garlic Mashed Potatoes - Ultimate Comfort Food Recipe</news:title>
+      <news:keywords>creamy garlic mashed potatoes, side dish, comfort food, vegetarian, easy recipe, thanksgiving, holiday, potatoes, garlic, butter</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lacouzina.example.com/recipes/perfectly-cooked-instant-pot-sweet-potatoes-in-20-minutes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>lacouzina</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T12:10:50.880Z</news:publication_date>
+      <news:title>Perfectly Cooked Instant Pot Sweet Potatoes in 20 Minutes</news:title>
+      <news:keywords>instant pot, sweet potatoes, easy, side dish, vegetarian, quick, healthy, gluten-free, vegan, pressure cooking</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lacouzina.example.com/recipes/perfect-cornbread-with-honey-butter-recipe-moist-sweet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>lacouzina</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T12:10:50.925Z</news:publication_date>
+      <news:title>Perfect Cornbread with Honey Butter Recipe - Moist &amp; Sweet</news:title>
+      <news:keywords>cornbread, honey butter, side dish, American cuisine, easy recipe, vegetarian, baking, comfort food, homemade, family recipe</news:keywords>
+    </news:news>
+  </url>
+</urlset>
